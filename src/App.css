@@ -1,0 +1,31 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.card {
+  cursor: pointer;
+  text-align: center;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
